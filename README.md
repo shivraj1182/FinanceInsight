@@ -322,7 +322,7 @@ If you use FinanceInsight in your research, please cite:
 @software{FinanceInsight2024,
   title={FinanceInsight: NER for Financial Data Extraction},
   author={Shivraj},
-  year={2024},
+  year={2025},
   url={https://github.com/shivraj1182/FinanceInsight}
 }
 ```
@@ -333,5 +333,5 @@ For questions or suggestions, please open an issue on GitHub or contact the auth
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Status**: Actively maintained ✅
