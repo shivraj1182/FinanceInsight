@@ -16,7 +16,6 @@ tokenizers==0.13.3
 nltk==3.8.1
 spacy==3.5.0
 python-docx==0.8.11
-
 # Data Processing
 python-dotenv==1.0.0
 PyYAML==6.0
@@ -29,8 +28,7 @@ werkzeug==2.3.6
 # Visualization and Documentation
 matplotlib==3.7.1
 seaborn==0.12.2
-python-docs==0.8.11
-
+python-docx==0.8.11
 # Testing
 pytest==7.4.0
 pytest-cov==4.1.0
