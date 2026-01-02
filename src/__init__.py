@@ -8,7 +8,7 @@ __description__ = "Named Entity Recognition for Financial Data Extraction"
 from .data_preparation import DataPreparation
 from .ner_model import BERTBasedNER, FinBERTNER, NERTrainer, ModelEvaluator
 from .entity_extractor import FinancialEntityExtractor
-from .document_parser import FinancialDocumentParser, TableParser, DocumentStructureAnalyzer
+from .document_parser import FinancialDocumentParser
 
 __all__ = [
     'DataPreparation',
@@ -17,7 +17,5 @@ __all__ = [
     'NERTrainer',
     'ModelEvaluator',
     'FinancialEntityExtractor',
-    'FinancialDocumentParser',
-    'TableParser',
-    'DocumentStructureAnalyzer'
+    'FinancialDocumentParser'
 ]
