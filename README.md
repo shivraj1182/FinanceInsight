@@ -218,7 +218,7 @@ FinanceInsight/
 
 - **PyTorch**: Deep learning framework
 - **Transformers**: HuggingFace library (BERT, FinBERT)
-- **FinBERT**: Domain-specific BERT for financial text (ProsusAI)
+- **FinBERT**: Domain-specific BERT for financial text (ProsusAI)/
 - **NLTK**: Text tokenization and preprocessing
 - **spaCy**: NLP utilities
 - **scikit-learn**: Metrics and evaluation
